@@ -1,0 +1,1 @@
+# Setup Guideecho.echo ## Prerequisitesecho - Python 3.8 or higherecho - Git 2.x or higherecho.echo ## How to Runecho.echo ```bashecho git clone YOUR-REPO-URLecho cd cse103-lab-LAB3echo python src/main.pyecho ```
